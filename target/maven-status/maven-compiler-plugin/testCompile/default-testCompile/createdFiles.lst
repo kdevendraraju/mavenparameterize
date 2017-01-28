@@ -1,0 +1,10 @@
+com\base\TestBase.class
+com\appointment\ViewAppointments.class
+com\admin\ViewHistory.class
+com\patients\PatientHistory.class
+com\admin\ViewAllPatients.class
+com\patients\PatientDetails.class
+com\patients\CreatePatient.class
+com\prescriber\AddPrescription.class
+com\patients\EditPatient.class
+com\visit\DoctorVisits.class
